@@ -1,5 +1,6 @@
 pandas
-sklearn
+scikit-learn
 fastapi
 joblib
 pydantic
+
